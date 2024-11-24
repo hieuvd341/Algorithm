@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def solve(N: int):
     M = 1
     res = 0
@@ -21,7 +20,6 @@ def solve(N: int):
 
 result = solve(10)
 print(result)
-=======
 def solve(N: int):
     M = 1
     res = 0
@@ -44,4 +42,3 @@ def solve(N: int):
 
 result = solve(10)
 print(result)
->>>>>>> bad19b40af882feab18b89e58bb73dec7250f825
